@@ -4,7 +4,7 @@ ECログを検索するコマンドをshell scriptに保存しました．
 # 検索の内容
 今回のソースコードは以下に示しているサイトのECログの検索を行ったものです．
 
-https://www.ipa.go.jp/files/000063869.pdf
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z834IK
 
 検索の条件はHTTPのステータスコードの400番台と500番台です．
 
