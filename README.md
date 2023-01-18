@@ -12,6 +12,6 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z834IK
 
 今回の検索は検索の時間も測っており，そのコマンドは
 
-/usr/bin/time
+`/usr/bin/time`
 
 になります．
